@@ -1,0 +1,32 @@
+@font-face{
+    font-family: 'RobotoMono';
+    src: url('./fonts/RobotoMono-Thin.ttf');
+  }
+  
+  *{
+    font-family: 'RobotoMono', monospace;
+    font-weight: bolder;
+    font-size: large;
+  }
+@media only screen and (max-device-width: 900px) {
+    .menu {
+        width: 100%;
+    }
+}
+body{
+    background-image: url(../imagens/17580.jpg);
+}
+form {
+    text-align: center;
+    background-color: #FFFFFF;
+  
+}
+
+label {
+    padding: 10px;
+}
+
+
+ul{
+    list-style: none;
+}
