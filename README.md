@@ -1,49 +1,29 @@
-# WEB CLASSIFICADOS
+# Sistema Web Para Gerenciamento de Palestras
 <!-- # [Homepage](http://) -->
 
 
 ## Getting Started
 
 Para começar a usar este projeto, siga uma das opções abaixo:
-* Clone o repsitório: `git clone https://github.com/pedRo-shd/Sistema-Web-Classificados.git`
+* Clone o repsitório: `git clone https://github.com/TiagoSilva-dev/Gerenciamento_de_palestras_UMC.git`
 * Fork o repositório
 
-Dependências:
-* RVM (https://rvm.io/rvm/install)
 
-* Ruby: 2.3.3
-  ```
-  rvm install ruby 2.3.3
-  ```
+Este projeto desenvolvido em PHP e MySQL foi o meu TCC do curso de Analise e Desenvolvimento de Sistemas pela Universidade UMC | Campos Vila Lobos - SP :
 
-* ImageMagick (https://www.imagemagick.org)
-  ```
-  sudo apt-get update
-  sudo apt-get install imagemagick
-  ```
-
-* Graphviz (https://www.graphviz.org) - Apenas para Ambiente de Desenvolvimento
- ```
- sudo apt-get update
- sudo apt-get install graphviz
- ```
-
-Este projeto desenvolvido em Ruby on Rails é baseado em websites como mercadolivre.com e olx.com,
-o projeto contempla a criação de duas features principais para :
-
-  Usuário/Membro
+  Usuário/Participante
   * Cadastro no site
   * Login
-  * Inserção de anúncios
-  * Possibilidade de perguntas em anúncios
-  * Alteração de dados do perfil
-  * Repostas de perguntas.
-  * Vendas no site através pelo PagSeguro
+  * Inscrever-se em eventos
+  * Remover Inscrição
+  * Alteração de Senha
+  
 
-  Administrador
+  Administrado/Coordenador
   * Login
-  * Verificação de estatísticas (Dashboard/Quantidade de usuários, itens mais buscados)
-  * Cadastro de novas categorias
-  * Cadastro de administradores
-  * Moderador de perguntas
-  * Moderador de conteúdo
+  * Cadastrar outros coordenadores
+  * Cadastrar Palestrantes
+  * Cadastrar palestras
+  * Alteração de senha
+  * Gerar Lista de participantes
+  * Emissão e envio de certificados 
