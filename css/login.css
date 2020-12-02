@@ -1,0 +1,61 @@
+@media (min-width: 992px) {
+    body {
+        background-image: url(../imagens/aluno_bg.png);
+        background-position-x: 50%;
+        background-position-y: 50%;
+        background-attachment: fixed;
+        max-width: 100%;
+        background-size: cover;
+    }
+    .container-sm {
+        position: relative;
+        top: 100px;
+        max-width: 350px;
+        margin-left: calc(75% - 140px);
+        text-align: center;
+        background-color: white;
+        padding: 10px;
+        min-height: 350px;
+        border-radius: 10px
+    }
+}
+
+.container-sm {
+    position: relative;
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    top: 50px;
+    bottom: 50px;
+}
+
+.btn-primary {
+    position: relative;
+    top: 20px;
+    left: 50px;
+}
+
+.btn-success {
+    position: relative;
+    justify-content: center;
+    top: -34px;
+    right: 70px;
+}
+
+#logoumc {
+    right: 200px;
+    width: 200px;
+}
+
+#logocord {
+    right: 200px;
+    width: 200px;
+}
+
+input {
+    border-radius: 3px;
+    border: 1px solid #dfe0df;
+    box-shadow: none;
+    padding: 10px;
+}
