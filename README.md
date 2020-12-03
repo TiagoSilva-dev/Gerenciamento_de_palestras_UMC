@@ -51,3 +51,14 @@ Este projeto desenvolvido em PHP e MySQL foi o meu TCC do curso de Analise e Des
 |  Célula de conteúdo |  Célula de conteúdo |
 
 
+<br>
+
+## Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
+
+---
+
+Feito com :purple_heart: by [Tiago Silva](https://github.com/TiagoSilva-dev)
+
+
