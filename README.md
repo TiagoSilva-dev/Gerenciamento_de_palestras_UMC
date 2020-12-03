@@ -10,10 +10,13 @@ Para começar a usar este projeto, siga uma das opções abaixo:
 
 ## Altere as credenciais do banco de dados no arquivo 
   DB_Conexao.php 
+## Login como Adiministrador
+  Login: admiin
+  Senha: 00000000
 
 Este projeto desenvolvido em PHP e MySQL foi o meu TCC do curso de Analise e Desenvolvimento de Sistemas pela Universidade UMC | Campos Vila Lobos - SP :
 
-  Usuário/Participante
+  ## Usuário/Participante
   * Cadastro no site
   * Login
   * Inscrever-se em eventos
@@ -21,7 +24,7 @@ Este projeto desenvolvido em PHP e MySQL foi o meu TCC do curso de Analise e Des
   * Alteração de Senha
   
 
-  Administrado/Coordenador
+  ## Administrado/Coordenador
   * Login
   * Cadastrar outros coordenadores
   * Cadastrar Palestrantes
