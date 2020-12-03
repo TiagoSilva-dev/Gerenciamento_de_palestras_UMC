@@ -8,6 +8,8 @@ Para começar a usar este projeto, siga uma das opções abaixo:
 * Clone o repsitório: `git clone https://github.com/TiagoSilva-dev/Gerenciamento_de_palestras_UMC.git`
 * Fork o repositório
 
+## Altere as credenciais do banco de dados no arquivo 
+  DB_Conexao.php 
 
 Este projeto desenvolvido em PHP e MySQL foi o meu TCC do curso de Analise e Desenvolvimento de Sistemas pela Universidade UMC | Campos Vila Lobos - SP :
 
@@ -27,3 +29,10 @@ Este projeto desenvolvido em PHP e MySQL foi o meu TCC do curso de Analise e Des
   * Alteração de senha
   * Gerar Lista de participantes
   * Emissão e envio de certificados 
+  
+  ## Tecnologias Utilizadas 
+  * PHP
+  * MySQL
+  * JavaScript
+  * HTML 5
+  * CSS 3
